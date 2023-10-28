@@ -8,4 +8,4 @@ Also uploaded my ipa and apk files if someone wanted to use it.
 
 Its a basic music player app for mixtapes and you can get to it here https://mixtapes.phantasmfour.com:8085 if its still up
 
-More info here
+More info here https://phantasmfour.com/mixtape-app/#
